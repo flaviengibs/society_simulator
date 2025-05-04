@@ -20,3 +20,6 @@ Juste lancer le fichier Python :
 
 ```bash
 python3 nom_du_fichier.py
+
+```
+
