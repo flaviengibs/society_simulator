@@ -15,11 +15,12 @@ Un petit jeu en Python où on gère une ville : population, argent, bonheur, ser
 - Sauvegarde et chargement de la ville (`save.json`)
 
 ## Lancer le jeu
-
+### Python
 Juste lancer le fichier Python :
 
 ```bash
 python3 nom_du_fichier.py
 
 ```
+
 
