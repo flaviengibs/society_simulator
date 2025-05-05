@@ -16,10 +16,12 @@ Un petit jeu en Python où on gère une ville : population, argent, bonheur, ser
 
 ## Lancer le jeu
 ### Python
+Télécharger le fichier python (fichier dans la repo)
+
 Juste lancer le fichier Python :
 
 ```bash
-python3 nom_du_fichier.py
+python3 societysimulator.py
 
 ```
 
